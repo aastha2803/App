@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@rneui/base": "^0.0.0-edge.2",
-    "@rneui/themed": "github:react-native-elements/react-native-elements#themed",
+    "@rneui/themed": "^0.0.0-edge.2",
     "expo": "~47.0.12",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
