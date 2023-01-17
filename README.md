@@ -13,6 +13,8 @@
 
 #### Set SDK location 
 
+##### Create File in ./android 
+
 For Windows
 
     sdk.dir = C:\\Users\\USERNAME\\AppData\\Local\\Android\\sdk
