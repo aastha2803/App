@@ -13,7 +13,7 @@
 
 #### Set SDK location 
 
-##### Create File in ./android 
+##### Create local.properties File at ./android 
 
 For Windows
 
