@@ -79,7 +79,7 @@ open your android\app\build.gradle file and add the keystore configuration
       signingConfigs {
         release {
             storeFile file('am-demo.keystore')
-            storePassword System.console() ? System.console().readLine("\nKeystore password:") ? ""
+            storePassword System.console() ? System.console().readLine("\nKeystore password:") : ""
             keyAlias System.console() ? System.console().readLine("\nAlias: ") : ""
             keyPassword System.console() ? System.console().readLine("\nAlias password: ") : ""
         }
