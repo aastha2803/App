@@ -11,6 +11,15 @@
 
 ## Bulid
 
+
+### Generate Android and IOS 
+
+    expo eject
+
+### Create a New File (If Not Available)
+
+create file index.android.bundle at android/app/src/main/assets/
+
 #### Set SDK location 
 
 ##### Create local.properties File at ./android 
@@ -22,14 +31,6 @@ For Windows
 For Linux and Mac OSX
 
     sdk.dir = /Users/USERNAME/Library/Android/sdk
-
-### Generate Android and IOS 
-
-    expo eject
-
-### Create a New File (If Not Available)
-
-create file index.android.bundle at android/app/src/main/assets/
 
 
 ### Debug Build
