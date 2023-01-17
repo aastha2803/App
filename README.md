@@ -107,9 +107,9 @@ For Linux and Mac OSX
     ./gradlew assembleRelease
 
 
-#### Path of Debud apk
+#### Path of Release apk
 
-    android/app/build/outputs/apk/app-debug.apk
+    android/app/build/outputs/apk/app-release.apk.
     
 ## Screen Shoot
 <p>
